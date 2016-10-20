@@ -18,3 +18,10 @@ demo
 	基本使用,输出hello world保存png
 
 	$ `make;./main;` 当前目录下生成hello.png
+
+
+资料
+==
++ [用 cairo 实现跨平台图形](http://www.ibm.com/developerworks/cn/linux/l-cairo/)
+
++ [Cairo图形指南](http://blog.chinaunix.net/uid-20665885-id-1903545.html)
