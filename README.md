@@ -2,7 +2,10 @@
 概述
 ==
 cairo 开源计算机绘图库,他可以向多种设备上画图.可以输出到pdf,ps，xlib，XCB，win32，svg。用于渲染ofd文档
-记录 cairo 使用
+
+记录 cairo 使用,学会基本绘图相关函数
+
+主页:https://www.cairographics.org/
 
 编译
 ==
