@@ -1,7 +1,7 @@
 #cairo demo
 概述
 ==
-cario 开源计算机绘图库,他可以向多种设备上画图.可以输出到pdf,ps，xlib，XCB，win32，svg。用于渲染ofd文档
+cairo 开源计算机绘图库,他可以向多种设备上画图.可以输出到pdf,ps，xlib，XCB，win32，svg。用于渲染ofd文档
 记录 cairo 使用
 
 编译
