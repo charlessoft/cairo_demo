@@ -22,9 +22,30 @@ demo
 
 	$ `make;./main;` 当前目录下生成hello.png
 
+2. smile_face
+
+    画笑脸圆.
+
+    $ `make;./smile_face`
+
+3. dash
+
+    虚线,实线,线帽等
+    
+    $ `make;./dash`
+    
+4. image
+	
+	显示多张图片
+	
+	$ `make;./image`
+	
+
 
 资料
 ==
 + [用 cairo 实现跨平台图形](http://www.ibm.com/developerworks/cn/linux/l-cairo/)
 
 + [Cairo图形指南](http://blog.chinaunix.net/uid-20665885-id-1903545.html)
+
++ [官方demo](https://www.cairographics.org/samples/)
