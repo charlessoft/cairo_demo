@@ -49,3 +49,5 @@ demo
 + [Cairo图形指南](http://blog.chinaunix.net/uid-20665885-id-1903545.html)
 
 + [官方demo](https://www.cairographics.org/samples/)
+
++ [Cairo 绘图教程](http://www.yunxuan.red/cairo/)
